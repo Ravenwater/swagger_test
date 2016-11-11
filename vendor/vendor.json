@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "w5igBO16GJD3mA7sgu9K81Q5L9w=",
+			"path": "github.com/go-openapi/runtime",
+			"revision": "2faaf90bf67e0616db00094f2141f99b00a9ebc2",
+			"revisionTime": "2016-10-19T07:03:01Z"
+		},
+		{
+			"checksumSHA1": "zibYVtZGsPa86b9neRNYLhKcw1Q=",
+			"path": "github.com/go-openapi/runtime/middleware",
+			"revision": "2faaf90bf67e0616db00094f2141f99b00a9ebc2",
+			"revisionTime": "2016-10-19T07:03:01Z"
+		},
+		{
+			"checksumSHA1": "hPpBRNmh3Zdbtb8MzIzOcabb3f0=",
+			"path": "github.com/go-openapi/runtime/middleware/denco",
+			"revision": "2faaf90bf67e0616db00094f2141f99b00a9ebc2",
+			"revisionTime": "2016-10-19T07:03:01Z"
+		},
+		{
+			"checksumSHA1": "eznrcU0ExZ9lPqG8svim6elgRF8=",
+			"path": "github.com/go-openapi/runtime/middleware/header",
+			"revision": "2faaf90bf67e0616db00094f2141f99b00a9ebc2",
+			"revisionTime": "2016-10-19T07:03:01Z"
+		},
+		{
+			"checksumSHA1": "shC3qxsb0qDmxOefy4EvNrhK61E=",
+			"path": "github.com/go-openapi/runtime/middleware/untyped",
+			"revision": "2faaf90bf67e0616db00094f2141f99b00a9ebc2",
+			"revisionTime": "2016-10-19T07:03:01Z"
+		},
+		{
+			"checksumSHA1": "9gYSq/nxqfu2HK8FQRjq8+UaxGw=",
+			"path": "github.com/go-openapi/runtime/security",
+			"revision": "2faaf90bf67e0616db00094f2141f99b00a9ebc2",
+			"revisionTime": "2016-10-19T07:03:01Z"
+		},
+		{
+			"checksumSHA1": "oVvtEZyAn7mutkb10yYFsMNtMus=",
+			"path": "github.com/jessevdk/go-flags",
+			"revision": "0648c820cd4e564706597268ae2d2c7d9e6900c6",
+			"revisionTime": "2016-10-25T19:38:02Z"
+		},
+		{
+			"checksumSHA1": "GzbU0B2t6V9wOskUzPjakAKM3eM=",
+			"path": "github.com/tylerb/graceful",
+			"revision": "50a48b6e73fcc75b45e22c05b79629a67c79e938",
+			"revisionTime": "2016-08-29T01:00:30Z"
+		},
+		{
+			"checksumSHA1": "4hQNaJUg67lF/QcO0NKzUeqlaew=",
+			"path": "golang.org/x/net/context",
+			"revision": "4bb47a1098b37d69980d96237e2ae4ff56bb5a95",
+			"revisionTime": "2016-10-31T16:36:42Z"
+		}
+	],
+	"rootPath": "github.com/Ravenwater/swagger_test"
+}
